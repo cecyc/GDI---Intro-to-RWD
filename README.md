@@ -1,5 +1,5 @@
 # Intro to RWD
-**GDI ATX July 2014**
+**Updated May 2015**
 
 This class covers principles of RWD:
 
